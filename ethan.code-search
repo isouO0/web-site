@@ -1,0 +1,22 @@
+# Query: ethan
+# ContextLines: 1
+
+4 results - 3 files
+
+package-lock.json:
+  5    "requires": true,
+  6:   "description": "Ethan Smith is a Full-stack web developer with 10+ years of experience.",
+  7    "funding": [
+
+package.json:
+   9    },
+  10:   "description": "Ethan Smith is a Full-stack web developer with 10+ years of experience.",
+  11    "keywords": [
+
+components\Layout.jsx:
+  21        <Head>
+  22:         <title>DIMITRI® | Portfolio</title>
+  23          <meta
+  24            name="description"
+  25:           content="Ethan Smith is a Full-stack web developer with 10+ years of experience."
+  26          />
